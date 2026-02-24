@@ -14,6 +14,7 @@
 * **lazyvim**: neovim 的超进化
 * **micro**: win 习惯的小白编辑器
 * **helix**: 现成的终端超级文本编辑器
+* **fresh** VSCode 风格的文本编辑器
 * **fnm**: node.js 管理器
 * **uv**: python 管理器
 * **hevi**: 十六进制编辑器。
