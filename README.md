@@ -20,6 +20,7 @@
 * **hevi**: 十六进制编辑器。
 * **hexyl**: 十六进制数据查看器。
 * **glow**: markdown 查看器
+* **tokei** 统计代码行数
 
 * **ghostty**: 带有 shader 的终端
 * **zsh**: 超级现代化 shell
